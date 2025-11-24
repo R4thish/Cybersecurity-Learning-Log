@@ -5,7 +5,7 @@ This folder contains a day-by-day record of what I studied and practiced.
 **File naming format:**
 
 `YYYY-MM-DD-day-XXX.md`  
-Example:
+Example:d
 - `2025-11-25-day-001.md`
 - `2025-11-26-day-002.md`
 
